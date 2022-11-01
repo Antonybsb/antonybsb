@@ -1,12 +1,11 @@
 
+<h1 align="left">Seja bem-vindo <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">!<br> Meu nome é  
+    <a href="https://www.linkedin.com/in/antony-diego/">Antony Diego</a></h1>
+ 
+
 
 <div>
   
-  <h1 align="center">
-    Seja bem-vindo! Meu nome é  
-    <a href="https://www.linkedin.com/in/antony-diego/">Antony Diego 👋</a>
-  </h1>
-
   
 - 📗 4º Semstre do curso de Análise e Desenvolvimento de Sistemas na Faculdade Projeção
   <img align="right" height="100" style="border-radius:50px;" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
