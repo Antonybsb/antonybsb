@@ -6,8 +6,9 @@
     Seja bem-vindo! Meu nome é  
     <a href="https://www.linkedin.com/in/antony-diego/">Antony Diego 👋</a>
   </h1>
-![Profile views](https://gpvc.arturio.dev/Antonybsb)  <img align="right" height="100" style="border-radius:50px;" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 
+  <img align="right" height="100" style="border-radius:50px;" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
+- 
 - 💻 Desenvolvedor Web Trainee no MPM (Ministério Público Militar)
 - 📙 Estudando SQL Server | Java | Spring Boot | Html | Css | JavaScript | TypeScript | Angular
 
@@ -41,6 +42,7 @@
 ##
     
   ![Snake animation](https://github.com/Antonybsb/antonybsb/blob/output/github-contribution-grid-snake.svg)
+  ![Profile views](https://gpvc.arturio.dev/antonybsb) 
 </div>
   
 
