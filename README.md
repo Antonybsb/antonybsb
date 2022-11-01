@@ -1,15 +1,17 @@
 
-##
 
-### Seja bem-vindo!  Meu nome é Antony Diego 👋 <img align="right" height="100" style="border-radius:50px;" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
-
-
-
+<div>
+  
+  <h1 align="center">
+    Seja bem-vindo! Meu nome é  
+    <a href="https://www.linkedin.com/in/antony-diego/">Antony Diego 👋</a>
+  </h1>
+![Profile views](https://gpvc.arturio.dev/Antonybsb)  <img align="right" height="100" style="border-radius:50px;" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 
 - 💻 Desenvolvedor Web Trainee no MPM (Ministério Público Militar)
 - 📙 Estudando SQL Server | Java | Spring Boot | Html | Css | JavaScript | TypeScript | Angular
 
-##
+
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
