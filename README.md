@@ -7,7 +7,7 @@
 <div>
   
   
-- 📗 4º Semstre do curso de Análise e Desenvolvimento de Sistemas na Faculdade Projeção
+- 📗 5º Semstre do curso de Análise e Desenvolvimento de Sistemas na Faculdade Projeção
   <img align="right" height="100" style="border-radius:50px;" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
 - 💻 Desenvolvedor Web Trainee no MPM (Ministério Público Militar)
 - 📙 Estudando SQL Server | Java | Spring Boot | Html | Css | JavaScript | TypeScript | Angular
