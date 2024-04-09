@@ -43,7 +43,7 @@
 ##
     
   
-  ![Profile views](https://gpvc.arturio.dev/antonybsb) 
+  
 </div>
   
 <div align="center">
