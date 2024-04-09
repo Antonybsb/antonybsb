@@ -42,7 +42,7 @@
   
 ##
     
-  ![Snake animation](https://github.com/Antonybsb/antonybsb/blob/output/github-contribution-grid-snake.svg)
+  
   ![Profile views](https://gpvc.arturio.dev/antonybsb) 
 </div>
   
