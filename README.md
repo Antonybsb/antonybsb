@@ -7,10 +7,8 @@
 <div>
   
   
-- 📗 Formado no curso de Análise e Desenvolvimento de Sistemas pela Faculdade Projeção
   <img align="right" height="100" style="border-radius:50px;" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/dormrm.gif">
-- 💻 Web Developer
-- 📙 Estudando SQL | Node.js | Express | Figma | Html | Css | Tailwind | JavaScript | TypeScript | Angular
+Software Engineer | Frontend Angular Specialist | Node.js | UI/UX Engineer (PJ/B2B/Remoto)
  
   ##
   
